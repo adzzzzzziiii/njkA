@@ -1,0 +1,12 @@
+body{
+    font-family: agency fb;
+    font-size: 22px;
+}
+body {
+    background: linear-gradient(to right, #ff7e5f, #feb47b); /* Gradasi dari pink ke oranye */
+    color: rgb(255, 255, 255);
+    font-family: agency fb;
+}
+h2{
+    background-color: red;
+}
